@@ -8,7 +8,7 @@ return (
             <li className="list-group-item"><Link to="/Facturas">Facturas</Link></li>
             <li className="list-group-item"><Link to="/Clientes">Clientes</Link></li>
             <li className="list-group-item"><Link to="/Productos">Productos</Link></li>
-            <li className="list-group-item"><Link to="/Eth">ETH</Link></li>
+            <li className="list-group-item"><Link to="/eth">ETH</Link></li>
         </ul>
     </header>
 )

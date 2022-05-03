@@ -16,7 +16,7 @@ ReactDOM.render(
       <Route path="/Facturas" element={<Facturas></Facturas>} />
       <Route path="/Clientes" element={<Clientes></Clientes>} />
       <Route path="/Productos" element={<Productos></Productos>} />
-      <Route path="/Eth" element={<Eth></Eth>} />
+      <Route path="/eth" element={<Eth></Eth>} />
       </Route>      
   </Routes>
   </BrowserRouter>,
